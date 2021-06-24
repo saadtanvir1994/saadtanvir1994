@@ -12,7 +12,7 @@
 </ul>
 <h1>Upwork Profile</h1>
 👀 I’m interested in remote jobs or freelancing projects. My Upwork profile link is: <a href="https://www.upwork.com/freelancers/~016a1e0137badd1448" target="_blank">Show Upwork Profile</a>
-<h1> Let's Start a Proejct</h1>
+<h1> Let's Start a Project</h1>
 - 💞️ I’m looking to collaborate on freelancing projects and work on hourly basis or fixed price 
 - 📫 If you have projects/ideas just ping me at saadtanvir1994@gmail.com
 </div>
