@@ -1,6 +1,6 @@
 <div style="background:#181818;color:#fff">
 <h1>Introuction</h1>
-🙋‍♂️ A warm welcome by <b>Top Rated Freelancer</b> working as <b>Senior Front End Developer</b>, <b>GSAP Animation Expert</b> and <b>Custom WordPress Theme Developer</b>. I have been delivering values for dgitial products for more than 4+ years.
+🙋‍♂️ A warm welcome by <b>Top Rated Freelancer</b> working as <b>Vue JS Developer</b>,<b>Senior Front End Developer</b>, <b>GSAP Animation Expert</b> and <b>Custom WordPress Theme Developer</b>. I have been delivering values for dgitial products for more than 4+ years.
 <h1>Skills & Technologies</h1>
 <ul>
 <li>WordPress Theme developer</li>
