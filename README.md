@@ -3,7 +3,7 @@
 🙋‍♂️ A warm welcome by <b>Top Rated Freelancer</b> working as <b>Vue JS Developer</b>,<b>Senior Front End Developer</b>, <b>GSAP Animation Expert</b> and <b>Custom WordPress Theme Developer</b>. I have been delivering values for dgitial products for more than 4+ years.
 <h1>Skills & Technologies</h1>
 <ul>
-  <li>Vue JS, Vuetify and VueBoosttap</li>
+  <li>Vue JS, Vuetify and VueBoostrap</li>
 <li>WordPress Theme developer</li>
 <li>GSAP Animation (GreenSock)</li>
 <li>UI Developer</li>
