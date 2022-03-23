@@ -1,6 +1,7 @@
 <div style="background:#181818;color:#fff">
-<h1>Introuction</h1>
+<h1>Senior Front End Developer - Introuction</h1>
   🙋‍♂️ A warm welcome by <b>Top Rated Freelancer</b> working as <b>UI Developer (converting design files into HTML5/CSS3)</b>,<b>Vue JS Developer</b>,<b>Senior Front End Developer</b>, <b>GSAP Animation Expert</b> and <b>Custom WordPress Theme Developer</b>. I have been delivering values for dgitial products for more than 4+ years.
+   In 2021, I have delivered more than 148+ design files into Responsive HTML5/CSS3 with 5 star ratings
 <h1>Skills & Technologies</h1>
 <ul>
   <li>Vue JS, Vuetify and VueBoostrap</li>
