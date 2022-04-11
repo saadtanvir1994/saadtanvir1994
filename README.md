@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Saad Tanvir</h1>
-<h3 align="center">A passionate frontend developer from Sialkot, Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Saad Tanvir (SENIOR FRONT END DEVELOPER)</h1>
+<h3 align="center">A warm welcome by <b>Top Rated Freelancer</b> working as <b>UI Developer (converting design files into HTML5/CSS3)</b>,<b>Vue JS and React Js Developer</b>, <b>GSAP Animation Expert</b> and <b>Custom WordPress Theme Developer</b>. I have been delivering values for small and large companies for more than 4+ years.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadtanvir1994&label=Profile%20views&color=0e75b6&style=flat" alt="saadtanvir1994" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saadtanvir1994" alt="saadtanvir1994" /></a> </p>
-
-- 🌱 I’m currently learning **SEO**
 
 - 👯 I’m looking to collaborate on **Digital Products**
 
@@ -15,7 +13,7 @@
 
 - 💬 Ask me about **React, Vue, Pixel-perfect Conversion of design files to HTML/CSS**
 
-- 📫 How to reach me **saadtanvir1994@gmail.com**
+- 📫 How to reach me **saadtanvir1994@gmail.com or info@saadtanvir.com**
 
 - 📄 Know about my experiences [https://saadtanvir.com/saad-tanvir-resume.pdf](https://saadtanvir.com/saad-tanvir-resume.pdf)
 
